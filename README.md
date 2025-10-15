@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 
-Hello everyone! I’m **Tanmay**, a passionate learner and data enthusiast pursuing my Master’s in **Computer Science and Engineering** with a specialization in **Business Analytics** at **VIT Chennai**.  
+Hello everyone! I’m **Tanmay**, a passionate learner and data enthusiast completed my Master’s in **Computer Science and Engineering** with a specialization in **Business Analytics** at **VIT Chennai**.  
 
 I’m deeply interested in exploring how **data-driven insights** can transform businesses, enhance decision-making, and drive innovation. My journey combines the technical rigor of computer science with the analytical depth of business intelligence.  
 
