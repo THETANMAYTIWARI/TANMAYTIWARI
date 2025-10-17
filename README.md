@@ -34,7 +34,7 @@ Through this space, I aim to contribute to the **open-source community**, share 
 
 ---
 
-## 🤝  Connect  
+## 🤝 Let’s Connect  
 
 I’m always open to feedback, collaboration, and meaningful discussions around **data science, business analytics, and software development**.  
 If something in my repository sparks your interest — feel free to reach out or open a pull request!  
