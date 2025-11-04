@@ -16,10 +16,10 @@ I’m deeply interested in exploring how **data-driven insights** can transform 
 ## 💻 My GitHub Repository  
 
 This repository is a **showcase of my academic and professional journey** — a place where I share:  
-- 🔹 Coding projects and experiments  
-- 🔹 Data analysis and visualization assignments  
-- 🔹 Machine learning and AI models  
-- 🔹 Explorations in business analytics  
+🔹 Coding projects and experiments  
+🔹 Data analysis and visualization assignments  
+🔹 Machine learning and AI models  
+🔹 Explorations in business analytics  
 
 Through this space, I aim to contribute to the **open-source community**, share my **insights**, and collaborate with others who share a passion for **data, technology, and innovation**.  
 
