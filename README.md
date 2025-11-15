@@ -42,8 +42,3 @@ If something in my repository sparks your interest — feel free to reach out or
 ---
 
 ✨ *Thank you for visiting my profile! Let’s build, learn, and innovate together.* ✨  
-
-<!---
-THETANMAYTIWARI/THETANMAYTIWARI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
