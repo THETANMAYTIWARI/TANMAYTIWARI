@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Tanmay Tiwari  
 
-🎓 **Master’s Student | Computer Science and Engineering (CSE)**  
+🎓 **Post-Graduate | Computer Science and Engineering (CSE)**  
 📊 **Specialization: Business Analytics | VIT Chennai**  
 
 ---
